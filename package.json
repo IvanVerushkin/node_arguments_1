@@ -1,0 +1,25 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "bin": {
+    "simple-date": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/IvanVerushkin/node_arguments_1.git"
+  },
+  "author": "Ivan Verushkin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IvanVerushkin/node_arguments_1/issues"
+  },
+  "homepage": "https://github.com/IvanVerushkin/node_arguments_1#readme",
+  "description": "",
+  "dependencies": {
+    "yargs": "^17.7.2"
+  }
+}
